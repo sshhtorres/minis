@@ -187,6 +187,7 @@ Jupyter:
 Jupyter Lab:
 - Documentación oficial de Jupyter Lab: https://jupyterlab.readthedocs.io/en/stable/
 - Jupyter Lab is AWESOME For Data Science | NeuralNine: https://www.youtube.com/watch?v=7wf1HhYQiDg
+- Jupyter Lab desde Cero con Python | Garaje de ideas | Tech: https://www.youtube.com/watch?v=VFp2UIeji2Q
 
 Jupyter en VSCode:
 - Jupyter Notebooks in VS Code Walkthrough | Visual Studio Code: https://www.youtube.com/watch?v=DA6ZAHBPF1U
